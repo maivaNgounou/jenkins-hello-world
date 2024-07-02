@@ -1,4 +1,4 @@
-mport pandas as pd
+import pandas as pd
 
 def analyze_sales_data(file_path):
     # Lire les données à partir d'un fichier CSV
