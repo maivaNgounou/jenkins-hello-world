@@ -17,5 +17,5 @@ def analyze_sales_data(file_path):
     print(f"Ventes minimales : {min_sales}")
 
 if __name__ == "__main__":
-    file_path = '/root/jenkins-data-pipeline/sales_data.csv'  # Chemin vers le fichier CSV
+    file_path = '/root/jenkins-hello-world/sales_data.csv'  # Chemin vers le fichier CSV
     analyze_sales_data(file_path)
